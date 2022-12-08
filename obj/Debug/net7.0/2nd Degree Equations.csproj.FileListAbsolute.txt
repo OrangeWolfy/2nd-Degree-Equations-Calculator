@@ -1,0 +1,15 @@
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\bin\Debug\net7.0\2nd Degree Equations.exe
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\bin\Debug\net7.0\2nd Degree Equations.deps.json
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\bin\Debug\net7.0\2nd Degree Equations.runtimeconfig.json
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\bin\Debug\net7.0\2nd Degree Equations.dll
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\bin\Debug\net7.0\2nd Degree Equations.pdb
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\obj\Debug\net7.0\2nd Degree Equations.csproj.AssemblyReference.cache
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\obj\Debug\net7.0\2nd Degree Equations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\obj\Debug\net7.0\2nd Degree Equations.AssemblyInfoInputs.cache
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\obj\Debug\net7.0\2nd Degree Equations.AssemblyInfo.cs
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\obj\Debug\net7.0\2nd Degree Equations.csproj.CoreCompileInputs.cache
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\obj\Debug\net7.0\2nd Degree Equations.dll
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\obj\Debug\net7.0\refint\2nd Degree Equations.dll
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\obj\Debug\net7.0\2nd Degree Equations.pdb
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\obj\Debug\net7.0\2nd Degree Equations.genruntimeconfig.cache
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Math\2nd Degree Equations\obj\Debug\net7.0\ref\2nd Degree Equations.dll
